@@ -6,6 +6,4 @@ This is a very basic webserver using Node and Express. The purpose of this is to
 
 - Copy the static pages into the /app folder
 - Make sure there is an index.html file in the /app folder
-- Run
-	
-	``` node server.js ```
+- Run ``` node server.js ```
