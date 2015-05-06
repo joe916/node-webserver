@@ -4,6 +4,8 @@ This is a very basic webserver using Node and Express. The purpose of this is to
 
 ###Setup
 
+- Clone the repo
+- Run ``` npm install ```. This will install all the node packages needed.
 - Copy the static pages into the /app folder
 - Make sure there is an index.html file in the /app folder
 - Run ``` node server.js ```
